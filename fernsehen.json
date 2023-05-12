@@ -1,0 +1,144 @@
+{
+	"tv_program_path":"",
+	"channels": [
+
+		{
+			"name":"RTL",
+			"path":"https://fernsehzone.online/getstream.php/rtl.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/1.png",
+			"tv_show_id":"rtl"
+        },
+        {
+			"name":"VOX",
+			"path":"https://fernsehzone.online/getstream.php/vox.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/3.png",
+			"tv_show_id":"vox"
+		},
+		{
+			"name":"RTL2",
+			"path":"https://fernsehzone.online/getstream.php/rtl2-zwei.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/2.png",
+			"tv_show_id":"rtl2"
+		},
+		{
+			"name":"N-TV",
+			"path":"https://fernsehzone.online/getstream.php/n-tv-live.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/5.png",
+			"tv_show_id":"ntv"
+		},
+		{
+			"name":"RTL Nitro",
+			"path":"https://fernsehzone.online/stream123.php/rtlnitroger.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/6.png",
+			"tv_show_id":"rtlnitro"
+		},
+		{
+			"name":"Super RTL",
+			"path":"https://fernsehzone.online/stream123.php/superrtl2.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/02/4.png",
+			"tv_show_id":"superrtl"
+		},
+		{
+			"name":"Disney Channel",
+			"path":"https://fernsehzone.online/stream123.php/disneyger2.m3u8",
+			"image":"https://2ix2.com/wp-content/uploads/2019/09/9.png",
+			"tv_show_id":"disney"
+		},
+		{
+			"name":"TLC",
+			"path":"https://fernsehzone.online/stream123.php/tlc.m3u8",
+			"image":"https://2ix2.com/wp-content/uploads/2020/10/l1.png",
+			"tv_show_id":"tlc"
+		},
+		{
+			"name":"Pro7",
+			"path":"https://fernsehzone.online/getstream.php/pro7.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png",
+			"tv_show_id":"pro7"
+		},
+		{
+			"name":"Sat.1",
+			"path":"https://fernsehzone.online/getstream.php/sat1.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png",
+			"tv_show_id":"sat1"
+		},
+		{
+			"name":"Sat.1 Gold",
+			"path":"https://fernsehzone.online/stream123.php/sgold.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png",
+			"tv_show_id":"sgold"
+		},
+		{
+			"name":"Суспільне Новини",
+			"path":"https://cdn.kvant.mk.ua/kvanttv/uanews/playlist.m3u8",
+			"image":"https://file.kvant.mk.ua/logo/suspilne.jpg",
+			"tv_show_id":"uanews"
+		},
+		{
+			"name":"Kabel Eins",
+			"path":"https://fernsehzone.online/getstream.php/kabel-1.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/kabel1-logo.png",
+			"tv_show_id":"kabel1"
+		},
+		{
+			"name":"Kabel Eins Doku",
+			"path":"https://fernsehzone.online/stream123.php/kabel1doku.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png",
+			"tv_show_id":"kabel1doku"
+		},
+		{
+			"name":"Welt",
+			"path":"https://fernsehzone.online/getstream.php/n24-live.m3u8",
+			"image":"https://2ix2.com/wp-content/uploads/2020/06/13.png",
+			"tv_show_id":"n24"
+		},
+		{
+			"name":"Sixx",
+			"path":"https://fernsehzone.online/stream123.php/sixxger.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png",
+			"tv_show_id":"sixx"
+		},
+		{
+			"name":"Tele5",
+			"path":"https://fernsehzone.online/stream123.php/tele-5ger2.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png",
+			"tv_show_id":"tele5"
+		},
+		{
+			"name":"DMAX",
+			"path":"https://fernsehzone.online/getstream.php/dmax.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png",
+			"tv_show_id":"dmax"
+		},
+		{
+			"name":"Comedy Central",
+			"path":"https://fernsehzone.online/getstream.php/comedy-central.m3u8",
+			"image":"https://2ix2.com/wp-content/uploads/2019/09/10.png",
+			"tv_show_id":"comedycentral"
+		},
+		{
+			"name":"ARD",
+			"path":"https://fernsehzone.online/stream123.php/ard.m3u8",
+			"image":"https://www.2ix2.com/wp-content/uploads/2020/06/2.png",
+			"tv_show_id":"ard"
+		},
+		{
+			"name":"ZDF",
+			"path":"https://fernsehzone.online/stream123.php/zdf.m3u8",
+			"image":"https://2ix2.com/wp-content/uploads/2019/09/5.png",
+			"tv_show_id":"zdf"
+		},
+		{
+			"name":"ORF 1",
+			"path":"https://cdn.kvant.mk.ua/kvanttv/uanews/playlist.m3u8",
+			"image":"https://fernsehzone.online/getstream.php/orf1a.m3u8",
+			"tv_show_id":"orf1"
+		},
+		{
+			"name":"ORF 2",
+			"path":"https://www.2ix2.com/wp-content/uploads/2021/06/30.png",
+			"image":"https://file.kvant.mk.ua/logo/ua-mykolaiv.png",
+			"tv_show_id":"orf2"
+		}
+	]
+}
